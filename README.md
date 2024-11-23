@@ -5,8 +5,6 @@
 
 ## About me:
 
-I'm studying to be a full stack web developer :smile:
-
 I like too much to discover new technologies and dive deep in solving problems.
 
 ## I'm learning:
