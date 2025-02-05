@@ -29,8 +29,7 @@
 
 ---
 
-## 📊 **GitHub Stats**  
-![Lucas Sanches' GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasanches&show_icons=true&count_private=true&hide=prs&theme=radical)
-
-## 🌍 **Linguagens Mais Usadas no GitHub**  
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasanches&layout=compact&theme=radical)
+<div align="center">
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=lucasanches&show_icons=true&count_private=true&hide=prs&theme=radical" alt="Seu GitHub Stats" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasanches&layout=compact&theme=radical" alt="Linguagens Mais Usadas no GitHub" />
+</div>
