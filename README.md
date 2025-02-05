@@ -29,7 +29,11 @@
 
 ---
 
-<div align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=lucasanches&show_icons=true&count_private=true&hide=prs&theme=radical" alt="Seu GitHub Stats" />
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasanches&layout=compact&theme=radical" alt="Linguagens Mais Usadas no GitHub" />
-</div>
+<center>
+<table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasanches&hide=html&layout=compact&theme=nightowl" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=lucasanches&theme=nightowl"/></td>
+    </tr>   
+</table>
+</center>
