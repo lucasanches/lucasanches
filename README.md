@@ -33,8 +33,8 @@
 <center>
 <table>
     <tr>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=lucasanches&theme=nightowl"/></td>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasanches&hide=html&layout=compact&theme=nightowl" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=lucasanches&theme=nightowl&cache_seconds=3600"/></td>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasanches&hide=html&layout=compact&theme=nightowl&cache_seconds=3600" /></td>
     </tr>   
 </table>
 </center>
