@@ -10,6 +10,7 @@
 ### 📊 **Business Intelligence & Dashboards**
 ![DOMO](https://img.shields.io/badge/DOMO-0072C6?style=for-the-badge&logo=domo&logoColor=white)
 ![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white)
+![Looker](https://img.shields.io/badge/Looker-4285F4.svg?style=for-the-badge&logo=Looker&logoColor=white)
 
 ### 🖥️ **Linguagens & Bancos de Dados**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
