@@ -19,7 +19,7 @@
 
 ### ⚙️ **Ferramentas & Frameworks** 
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Beekeeper Studio](https://img.shields.io/badge/Beekeeper%20Studio-FF6B00?style=for-the-badge&logo=beekeeper&logoColor=white)  
+![Beekeeper Studio](https://img.shields.io/badge/Beekeeper%20Studio-FAD83B.svg?style=for-the-badge&logo=Beekeeper-Studio&logoColor=black)  
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white) 
 
